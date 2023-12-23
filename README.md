@@ -1,4 +1,4 @@
-# Design Patterns and Aspect-Oriented Programming Exam
+# Design Patterns and Aspect-Oriented Programming
 
 ## Overview
 Develop an application for managing agents and their transactions. Key patterns and concepts include:
